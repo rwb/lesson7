@@ -64,3 +64,7 @@ Part 2: We now consider all three treatment groups separately.
 21. Add an interaction term to the logit model you estimated in part 4 to get a saturated model.
 22. Verify that the saturated model recovers the failure rates that can be calculated from the contingency table.
 23. Examine the likelihood-ratio test, AIC, and BIC to discern whether the saturated model or the main-effects-only model is more consistent with the data.
+
+
+### New Material (Final Exam Starts Here)
+
