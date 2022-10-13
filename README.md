@@ -14,9 +14,9 @@ trt <- rep(2,ncases)
 trt[r<0.333] <- 1
 trt[r>0.667] <- 3
 arrest <- rep(0,ncases)
-arrest[group==1] <- 1
+arrest[trt==1] <- 1
 advise <- rep(0,ncases)
-advise[group==2] <- 1
+advise[trt==2] <- 1
 table(trt,arrest)
 table(trt,advise)
 aggcirc <- rep(0,ncases)
