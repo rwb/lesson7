@@ -1,6 +1,6 @@
 ## Lesson 7 - Thursday 10/13/22
 
-* We will spend most of our time in class this week going over last week's practice problems.
+* We will spend most of our time in class this week going over last week's practice problems and discussing the mid-term exam.
 
 ## Mid-Term Exam - Due Monday 10/24/22
 
