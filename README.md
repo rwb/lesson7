@@ -1,4 +1,6 @@
-* We begin by reading in the nc78.csv dataset I sent you today.
+### Lesson 7 - Thursday 10/13/22
+
+* We begin by reading in the ```nc78.csv''' dataset I sent you today.
 
 ```r
 # read in our dataset
