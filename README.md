@@ -1,6 +1,9 @@
 ## Lesson 7 - Thursday 10/13/22
 
 * We will spend most of our time in class this week going over last week's practice problems.
+
+## Mid-Term Exam - Due Monday 10/24/22
+
 * Here is the R code you will use to set up your dataset for this week's exam:
 
 ```r
