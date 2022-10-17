@@ -4,6 +4,8 @@
 
 ## Mid-Term Exam - Due Monday 10/24/22
 
+* Question from a student: "For problem 18 on the exam, we are instructed to estimate a logistic regression model using both treatment dummy variables as predictors. Is it correct to say that we estimated this same model in number 17 to perform the likelihood ratio test?" My answer: There are multiple correct ways you could go about calculating the likelihood ratio test in question 17. One of the ways of conducting that test would address question 18 as well.
+
 * Here is the R code you will use to set up your dataset for this week's exam:
 
 ```r
